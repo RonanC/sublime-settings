@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Anaconda",
+		"AngularJS",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"ExpressComplete",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"JsFormat",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MongoExec",
+		"Nodejs",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeREPL",
+		"Terminal",
+		"Theme - Flatland",
+		"Theme - Soda",
+		"Theme - Spacegray"
+	]
+}
